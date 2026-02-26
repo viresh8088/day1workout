@@ -1,0 +1,6 @@
+class student{
+    student(){
+        System.out.println("constructor working");
+    }
+    
+}
